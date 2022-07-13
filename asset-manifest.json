@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-liebutton/static/css/main.e0450249.css",
-    "main.js": "/react-liebutton/static/js/main.af694abd.js",
-    "static/js/787.3ab97742.chunk.js": "/react-liebutton/static/js/787.3ab97742.chunk.js",
-    "index.html": "/react-liebutton/index.html",
-    "main.e0450249.css.map": "/react-liebutton/static/css/main.e0450249.css.map",
-    "main.af694abd.js.map": "/react-liebutton/static/js/main.af694abd.js.map",
-    "787.3ab97742.chunk.js.map": "/react-liebutton/static/js/787.3ab97742.chunk.js.map"
+    "main.css": "/react-likebutton/static/css/main.e0450249.css",
+    "main.js": "/react-likebutton/static/js/main.dd7bc8ab.js",
+    "static/js/787.3ab97742.chunk.js": "/react-likebutton/static/js/787.3ab97742.chunk.js",
+    "index.html": "/react-likebutton/index.html",
+    "main.e0450249.css.map": "/react-likebutton/static/css/main.e0450249.css.map",
+    "main.dd7bc8ab.js.map": "/react-likebutton/static/js/main.dd7bc8ab.js.map",
+    "787.3ab97742.chunk.js.map": "/react-likebutton/static/js/787.3ab97742.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0450249.css",
-    "static/js/main.af694abd.js"
+    "static/js/main.dd7bc8ab.js"
   ]
 }
