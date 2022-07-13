@@ -1,7 +1,7 @@
 {
   "name": "react-likebutton",
   "version": "0.1.0",
-  "homepage": "https://kalz2q.github.io/react-liebutton/",
+  "homepage": "https://kalz2q.github.io/react-likebutton/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
